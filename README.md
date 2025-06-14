@@ -10,7 +10,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/DybyTech?color=blue&style=flat-square"></a>
 <a href="https://github.com/DybyTech/MEGALODON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/DybyTech/MEGALODON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DybyTech/MEGALODON-MD"><img title="Size" src="https://img.shields.io/github/repo-size/MEGALODON-MD/MEGALODON-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/DybyTech/MEGALODON-MD"><img title="Size" src="https://img.shields.io/github/repo-size/DybyTech/MEGALODON-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/DybyTech/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
@@ -191,9 +191,7 @@ jobs:
       run: npm install
 
     - name: Install FFmpeg
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y ffmpeg
+      run: sudo apt-get install -y ffmpeg
 
     - name: Start application with timeout
       run: |
@@ -210,7 +208,7 @@ jobs:
 HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME DybyTech࿐➺
 
 <p align="">
-<a href='https://wa.me/50934960331?text=*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+MEGALODON+MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/50934960331?text=*ʜɪɪ+ᴅʏʙʏ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+MEGALODON+MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
